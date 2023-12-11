@@ -1,4 +1,4 @@
-module github.com/CaueFoyth/b3Simulator/go
+module github.com/CaueFoyth/app_b3
 
 go 1.21.5
 
